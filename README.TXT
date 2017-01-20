@@ -1,12 +1,13 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+#Attack of Aliens 
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+A naive implementation of a game using GreenFoot. 
+
+##Objective 
+This was a precursor to implement hangman using greenfoot. This application provides a scenario where the hero tries to protect the earth from aliens. 
+
+##How to execute?
+1. Install greenfoot
+2. Download the source code from the repo 
+3. Place all the files under respective folders as in the repo
+4. Execute the program and start playing the game in "world"
+
